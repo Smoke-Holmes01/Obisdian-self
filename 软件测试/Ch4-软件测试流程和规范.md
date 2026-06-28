@@ -24,7 +24,7 @@
 ---
 
 <!-- Slide number: 3 -->
-![](img/Ch4_图片3.jpg)
+
 ### 本章目录
 * **4.1 传统的软件测试过程**
   * 4.1.1 W模型
@@ -78,7 +78,7 @@
 * 测试计划、测试设计可以在更早时候开始。
 * 测试驱动开发（TDD）、验收测试驱动开发（ATDD）。
 
-![](img/Ch4_图片3.jpg)
+
 
 ---
 
@@ -156,7 +156,7 @@
 * 正确的**基础设施和工具（I - Infrastructure）**
 * 可用的**技术（T - Technique）**
 
-![](img/Ch4_Picture2.jpg)
+
 * **技术** $\leftrightarrow$ **流程**
 
 ![http://t0.gstatic.com/images?q=tbn:ANd9GcQYtuknG8Xi50yS5sSe8YMtBKYp9pzrqIKelV_rs4vg5uLAS0jBSg](img/Ch4_Picture6.jpg)
@@ -201,7 +201,7 @@
 
 <!-- Slide number: 19 -->
 ### BDTM 模型
-![BDTM.png](img/Ch4_图片3.jpg)
+
 * **核心焦点**：客户
 
 ---
@@ -221,7 +221,7 @@
 
 <!-- Slide number: 21 -->
 ### 敏捷测试的价值观
-![](img/Ch4_Picture2.jpg)
+
 * 敏捷宣言体现了核心价值观：
   * 个体和互动 高于 流程和工具
   * 可工作的软件 高于 详尽的文档
@@ -312,10 +312,10 @@
 
 <!-- Slide number: 29 -->
 ### SBTM 的基本架构
-![屏幕快照 2013-05-24 下午10.13.19.png](img/Ch4_图片3.jpg)
+
 * **核心要素**：测试目标、测试项、测试风险、测试策略、设计、测试点、场景列表。
 
-![Session-Based Exploratory Testing](img/Ch4_Picture2.jpg)
+
 
 <!-- Slide number: 30 -->
 ### SBTM 核心定义
@@ -324,7 +324,7 @@
 * **Charter (章程/测试指导)**：对每个 session 如何执行进行简要的描述，相当于每个 session 的简要计划（提纲）。
 * 一系列 Session 相互支持，有机地组合在一起，周密地测试了整个产品。
 
-![Session-Based Exploratory Testing](img/Ch4_Picture2.jpg)
+
 *(第30页)*
 
 > **Notes**：
@@ -336,7 +336,7 @@
 * **Session Sheet (测试报告/会话单)**：相当于测试报告，是供第三方（如测试经理、ScrumMaster等）检查的材料。最好能被工具扫描、解析和合成。
 * **Debriefing (听取口头报告/简报会)**：口头汇报，更准确地说，是测试人与其 Lead/Manager 之间的面对面对话。
 
-![屏幕快照 2013-11-06 下午10.59.09.png](img/Ch4_图片3.jpg)
+
 *(第31页)*
 
 > **Notes**：
@@ -524,7 +524,7 @@
 
 <!-- Slide number: 49 -->
 ### TMMi 结构图
-![TMM.png](img/Ch4_图片3.jpg)
+
 
 ---
 
@@ -580,18 +580,18 @@
 * **核心理念**：将**商业驱动 (BDTM)** 作为测试过程提升的基础。
 * 为改进目标和度量设定优先级。
 * 确保商业可以引导和控制改进的过程。
-![temp.png](img/Ch4_图片3.jpg)
+
 
 <!-- Slide number: 56 -->
 ### TPI Next 模型结构
-![TPI next logo.png](img/Ch4_图片3.jpg)
+
 ![tpi-next_uebersicht.jpg](img/Ch4_图片4.jpg)
 
 <!-- Slide number: 57 -->
 ### TPI 与 TPI Next 关键域的对比
 ![TPI 20 KAs.png](img/Ch4_图片6.jpg)
 ![查看源图像](img/Ch4_Picture6.jpg)
-![temp.png](img/Ch4_图片3.jpg)
+
 
 > **差异对比 Notes**：
 > - **没有（去除）**：生命周期模型、测试规格技术、静态测试技术、办公环境、测试功能与培训、评估、底层测试。
@@ -679,16 +679,16 @@ STEP 强调度量以下信息：
   * **IEEE Std 1008** 单元测试标准
   * **IBM** 程序设计开发指南（企业规范）
 
-![](img/Ch4_Picture2.jpg)
-![](img/Ch4_Picture8.jpg)
+
+
 ![](img/Ch4_Picture4.jpg)
 ![](img/Ch4_Picture6.jpg)
 
 <!-- Slide number: 65 -->
 ### 标准和质量体系认证
 ![http://www.gxkesui.cn/script/Product/MANAGE/pic/1013208529120.jpg](img/Ch4_Picture6.jpg)
-![http://www.hzbh.com/upfiles/200909/20090910162808932.jpg](img/Ch4_Picture8.jpg)
-![http://www.silver100.com.cn/honor_img/b/ISO9001%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E8%AF%81%E4%B9%A6.jpg](img/Ch4_Picture2.jpg)
+
+
 
 <!-- Slide number: 66 -->
 ### 从 SC7 标准集了解软件工程标准的结构
@@ -721,7 +721,7 @@ STEP 强调度量以下信息：
 <!-- Slide number: 69 -->
 ### 完整的软件测试规范结构
 * 包含：规范目的、范围、文档结构、词汇表、参考信息、可追溯性、方针、过程/规范、指南、模板、检查表、培训、工具、参考资料等。
-![http://www.softwaretestingstandard.org/images/projecttimeline.jpg](img/Ch4_Picture2.jpg)
+
 
 <!-- Slide number: 70 -->
 ### 制定测试规范需要考虑的 8 大维度

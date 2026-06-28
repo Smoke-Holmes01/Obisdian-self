@@ -580,7 +580,7 @@ npx cypress open
 ![espresso_lockup1-289x300.png](img/Ch6_图片9.jpg)
 ![appium 的图像结果](img/Ch6_Picture2.jpg)
 ![robotium1.png](img/Ch6_图片2.jpg)
-![屏幕快照 2017-02-03 下午4.34.00.png](img/Ch6_图片7.jpg)
+
 
 ---
 
@@ -694,7 +694,7 @@ monkeyrunner API 可以跨多个设备或模拟器应用一个或多个测试套
 
 ![屏幕快照 2017-02-03 下午4.41.21.png](img/Ch6_图片3.jpg)
 
-![robotium1.png](img/Ch6_图片7.jpg)
+
 
 ---
 
