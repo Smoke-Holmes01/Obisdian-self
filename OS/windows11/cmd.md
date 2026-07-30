@@ -1,3 +1,15 @@
+---
+title: "Windows CMD 基础命令速查"
+created: 2026-07-16 16:12
+updated: 2026-07-16 16:12
+tags:
+  - OS/Windows/CMD
+category: "备忘备查"
+status: "completed"
+---
+
+[[../OS MOC|← 返回 操作系统 MOC]]
+
 # CMD 基础命令速查
 
 > [!NOTE]

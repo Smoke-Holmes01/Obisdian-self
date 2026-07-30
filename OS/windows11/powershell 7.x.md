@@ -1,7 +1,19 @@
+---
+title: "Windows PowerShell 7 基础命令速查"
+created: 2026-07-16 16:12
+updated: 2026-07-16 16:12
+tags:
+  - OS/Windows/PowerShell
+category: "备忘备查"
+status: "completed"
+---
+
+[[../OS MOC|← 返回 操作系统 MOC]]
+
 # PowerShell 7 基础命令速查
 
 > [!NOTE]
-> 本页面向 PowerShell 7（pwsh）。PowerShell 会在管道中传递对象，而不只是文本；路径含空格时请使用单引号或双引号。
+> 本页面面向 PowerShell 7（pwsh）。PowerShell 会在管道中传递对象，而不只是文本；路径含空格时请使用单引号或双引号。
 
 ## 1. 帮助、版本与别名
 

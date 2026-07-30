@@ -1,3 +1,16 @@
+---
+title: "Git 常用命令速查手册"
+created: 2026-07-16 16:12
+updated: 2026-07-16 16:12
+tags:
+  - Git/Command
+  - Git/CheatSheet
+category: "备忘备查"
+status: "completed"
+---
+
+[[Git MOC|← 返回 Git MOC]]
+
 # Git 常用命令速查手册
 
 ## 一、配置
