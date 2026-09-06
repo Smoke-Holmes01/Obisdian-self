@@ -1,10 +1,3 @@
 $$
-	\lim_{ n \to \infty }\left( \frac{4}{\pi}\arctan \frac{n}{n+1} \right)^{n}
+	\sum^{\infty}_{n=1}\int_{n}^{n+1} 2^{-\sqrt{ x }} \, dx 
 $$
-
-$$\sum^{n}_{k=1} \frac{k}{a_{n}+n^{2}}$$
-
-$$
-	\lim_{ n \to \infty }\sqrt[n]{\sin ^{n}x+\cos^{n}x  }  
-$$
-
